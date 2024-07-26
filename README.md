@@ -1,2 +1,2 @@
 # DIO-NFT
-NFT de Pokemon TESTE.
+NFT TESTE de Pokemon utilizando a Solidity.
